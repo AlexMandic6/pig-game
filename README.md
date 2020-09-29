@@ -1,1 +1,1 @@
-# pig-game
+# pig-game made by following @jonasschmedtmann 's tutorial.
