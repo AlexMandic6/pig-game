@@ -1,1 +1,1 @@
-# pig-game made by following @jonasschmedtmann 's tutorial.
+Pig game - a game with dices.
